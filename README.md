@@ -1,0 +1,1 @@
+# goconfig-center-nacos
